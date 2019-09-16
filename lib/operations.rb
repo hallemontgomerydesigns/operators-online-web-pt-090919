@@ -1,4 +1,4 @@
-
+def
   if speed < 40
     true
   elsif speed > 60
